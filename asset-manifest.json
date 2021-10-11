@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/your-online-diary/static/css/main.ce7a1eb8.chunk.css",
-    "main.js": "/your-online-diary/static/js/main.21343c3d.chunk.js",
-    "main.js.map": "/your-online-diary/static/js/main.21343c3d.chunk.js.map",
+    "main.css": "/your-online-diary/static/css/main.6f06b5f7.chunk.css",
+    "main.js": "/your-online-diary/static/js/main.60b11742.chunk.js",
+    "main.js.map": "/your-online-diary/static/js/main.60b11742.chunk.js.map",
     "runtime-main.js": "/your-online-diary/static/js/runtime-main.21f98d71.js",
     "runtime-main.js.map": "/your-online-diary/static/js/runtime-main.21f98d71.js.map",
-    "static/js/2.a358f12f.chunk.js": "/your-online-diary/static/js/2.a358f12f.chunk.js",
-    "static/js/2.a358f12f.chunk.js.map": "/your-online-diary/static/js/2.a358f12f.chunk.js.map",
+    "static/js/2.0fb7a1ed.chunk.js": "/your-online-diary/static/js/2.0fb7a1ed.chunk.js",
+    "static/js/2.0fb7a1ed.chunk.js.map": "/your-online-diary/static/js/2.0fb7a1ed.chunk.js.map",
     "index.html": "/your-online-diary/index.html",
-    "static/css/main.ce7a1eb8.chunk.css.map": "/your-online-diary/static/css/main.ce7a1eb8.chunk.css.map",
-    "static/js/2.a358f12f.chunk.js.LICENSE.txt": "/your-online-diary/static/js/2.a358f12f.chunk.js.LICENSE.txt"
+    "static/css/main.6f06b5f7.chunk.css.map": "/your-online-diary/static/css/main.6f06b5f7.chunk.css.map",
+    "static/js/2.0fb7a1ed.chunk.js.LICENSE.txt": "/your-online-diary/static/js/2.0fb7a1ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.21f98d71.js",
-    "static/js/2.a358f12f.chunk.js",
-    "static/css/main.ce7a1eb8.chunk.css",
-    "static/js/main.21343c3d.chunk.js"
+    "static/js/2.0fb7a1ed.chunk.js",
+    "static/css/main.6f06b5f7.chunk.css",
+    "static/js/main.60b11742.chunk.js"
   ]
 }
